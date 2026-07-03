@@ -1,6 +1,6 @@
 ## Logistic Regression
 
-- **Nama:** Amalia Rizqy Putri Syapriansyah
+- **Nama:** Amalia Rizqy Putri Syapriansyahf
 - **NPM:** 2410020174
 
 ---
